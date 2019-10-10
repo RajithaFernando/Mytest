@@ -1,6 +1,5 @@
-nclude<stdio.h>
-int main()
+#include<stdio.h>
+main()
 {
-	printf("hello world");
-	return 0;
+	printf("hello world");	
 }
